@@ -56,7 +56,9 @@ Agriculture, FoodTech & Rural Development
 <li>Cross-pltform for any languages it is very useful for international users<li>
 <li>frontend and backend are available so it can be used by technogy<li>
 <li>Iot and sensors available(Soil moistures sensors)</ul>
-![alt text](<Screenshot 2025-09-28 222425.png>)
+
+![alt text](<Screenshot 2025-09-28 222425-1.png>)
+
 
 ## Feasibility and Viability
 <h3>Feasibility for farmers</h3>
